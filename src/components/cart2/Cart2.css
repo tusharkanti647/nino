@@ -1,0 +1,102 @@
+.banner-img-container .group715 {
+    width: 20%;
+    margin-right: 10%;
+}
+.banner-img-container .group715-img-description {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  width: 85%;
+  top: 130px;
+  left: 13%;
+}
+.banner-img-container .group715-description {
+    width: 60%;
+    font-size: 2.2em;
+  }
+.stockPhotoZhongshan {
+  position: absolute;
+  width: 57%;
+  top: 400px;
+  left: 17%;
+}
+
+/* ---------------------------------------------------------------- */
+.banner-img-container .group716 {
+    width: 20%;
+    margin-right: 10%;
+}
+.banner-img-container .group716-img-description {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  width: 85%;
+  top: 770px;
+  left: 13%;
+}
+.stockVectorSteam {
+  position: absolute;
+  width: 57%;
+  top: 1070px;
+  left: 17%;
+}
+
+/* -------------------------------------------------------------- */
+.banner-img-container .group720 {
+    width: 20%;
+    margin-right: 10%;
+}
+.banner-img-container .group720-img-description {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  width: 85%;
+  top: 30px;
+  left: 13%;
+}
+.stockPhotoToddler {
+  position: absolute;
+  width: 57%;
+  top: 300px;
+  left: 17%;
+}
+
+/* -------------------------------------------------------------- */
+.banner-img-container .group721 {
+    width: 20%;
+    margin-right: 10%;
+}
+.banner-img-container .group721-img-description {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  width: 85%;
+  top: 670px;
+  left: 13%;
+}
+.stockPhotoPreschooler {
+  position: absolute;
+  width: 57%;
+  top: 970px;
+  left: 17%;
+}
+
+/* -------------------------------------------------------------- */
+.banner-img-container .group722 {
+    width: 20%;
+    margin-right: 10%;
+}
+.banner-img-container .group722-img-description {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  width: 85%;
+  top: 30px;
+  left: 13%;
+}
+.photoCuteLittleIndian {
+  position: absolute;
+  width: 57%;
+  top: 300px;
+  left: 17%;
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="96" viewBox="0 0 210 96">
+  <g id="Payment_1" data-name="Payment 1" transform="translate(0 -0.411)">
+    <g id="Rectangle_723" data-name="Rectangle 723" transform="translate(0 0.411)" fill="#fff" stroke="#bce0fd" stroke-width="2">
+      <rect width="210" height="96" rx="6" stroke="none"/>
+      <rect x="1" y="1" width="208" height="94" rx="5" fill="none"/>
+    </g>
+    <path id="Path_217" data-name="Path 217" d="M47.788,0H4.447A4.487,4.487,0,0,0,0,4.447V30a4.487,4.487,0,0,0,4.447,4.447H47.788A4.487,4.487,0,0,0,52.236,30V4.447A4.384,4.384,0,0,0,47.788,0ZM6.388,6.469h6.469a2.605,2.605,0,0,1,2.588,2.588,2.554,2.554,0,0,1-2.588,2.588H6.388A2.605,2.605,0,0,1,3.8,9.056,2.554,2.554,0,0,1,6.388,6.469ZM48.516,24.5H3.8V17.223H48.516Z" transform="translate(79.544 31.531)" fill="#2699fb"/>
+  </g>
+</svg>

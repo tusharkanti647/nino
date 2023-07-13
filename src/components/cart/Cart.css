@@ -1,0 +1,185 @@
+.product-summary-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: top;
+  width: 100%;
+  margin-top: 60px;
+}
+.product-container {
+  width: 50%;
+}
+.oder-summary {
+  display: flex;
+  justify-content: center;
+  width: 25%;
+  margin-left: 10%;
+  margin-top: 30px;
+  border: 1px solid #707070;
+  border-radius: 20px;
+  height: 300px;
+}
+
+.cart-container .product {
+  position: relative;
+  display: flex;
+  padding: 10px 20px;
+  background-color: #e3f2eb;
+  margin-top: 30px;
+}
+.cart-container .product img {
+  width: 40%;
+}
+.cart-container .product .price {
+  position: absolute;
+  font-size: 0.9em;
+  margin: 3px;
+  color: #0055ff;
+  bottom: 10px;
+  right: 10px;
+}
+.cart-container .product .close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.addresses {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f8f8;
+  width: 100%;
+  margin-top: 50px;
+  padding-top: 60px;
+}
+
+.shipping-address {
+  margin-right: 10px;
+  color: #000000;
+}
+.billing-address {
+  margin-left: 10px;
+  color: #000000;
+}
+.addresses .ad {
+  border-radius: 20px;
+  height: 30px;
+  width: 350px;
+}
+.addresses .ciZc {
+  border-radius: 20px;
+  height: 30px;
+  width: 100px;
+}
+.inputFill {
+  margin-top: 20px;
+}
+.checkBox-checkout {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f8f8;
+  width: 100%;
+  padding-bottom: 60px;
+  padding-top: 60px;
+}
+
+.payment {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #e6efff;
+  color: #2699fb;
+  width: 100%;
+  padding-bottom: 60px;
+  padding-top: 60px;
+}
+
+.payment-method {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.payment-method img {
+  width: 20%;
+  margin-right: 30px;
+}
+.card-details .payment4{
+  width: 15%;
+  margin-left: 10%; 
+}
+.card-details .carDe {
+  height: 30px;
+  width: 400px;
+}
+.card-details .cvv {
+  height: 30px;
+  width: 100px;
+}
+
+.suss-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #FFFFFF;
+  width: 100%;
+  padding-bottom: 60px;
+  padding-top: 60px;
+}
+
+@media (max-width:910px){
+  .cart-container .product  {
+    font-size: 12px;
+  }
+}
+@media (max-width:760px){
+  .cart-container .product  {
+    font-size: 12px;
+  }
+  .product-summary-container{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .product-container {
+    width: 70%;
+  }
+  .oder-summary{
+    width: 50%;
+    margin-left: 0px;
+  }
+
+  .addresses {
+    flex-direction: column;
+  }
+  .billing-address {
+    margin-left: 0px;
+    margin-top: 50px;
+  }
+  .shipping-address {
+    margin-right: 0px;
+  }
+}
+
+@media (max-width:550px){
+  .product-container {
+    width: 95%;
+  }
+  .oder-summary{
+    width: 65%;
+  }
+
+  .card-details .carDe {
+    width: 200px;
+  }
+
+}
+@media (max-width:400px){
+  .cart-container .product  {
+    font-size: 10px;
+  }
+}

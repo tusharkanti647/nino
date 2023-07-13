@@ -1,0 +1,39 @@
+
+.cart1-banner-photo{
+    margin-top: 60px;
+    width: 100%;
+}
+.img-description-1st{
+    width:75%;
+    margin-top: 50px;
+}
+.img-description-1st .description-1st{
+    text-align: left;
+}
+
+.img-description-1st .img-1st img{
+    width:40%;
+    float: right;
+    margin-left: 10%;
+    margin-bottom: 20px;
+}
+
+.cart1-banner-photo2{
+    margin-top: 60px;
+    width: 75%;
+}
+
+.img-description-2st{
+    width:75%;
+    margin-top: 50px;
+}
+.img-description-2st .description-2st{
+    text-align: right;
+}
+
+.img-description-2st .img-2st img{
+    width:40%;
+    float: left;
+    margin-right: 10%;
+    margin-bottom: 20px;
+}
