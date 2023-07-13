@@ -88,7 +88,7 @@ function Address() {
 
             <Link style={{ textDecoration: 'none', backgroundColor: "#3979F8", color: "white", textAlign: "center", width: "300px", marginTop: "50px", borderRadius: "8px" }} to="/payment">
                 <div >
-                    <p >Checkout</p>
+                    <p >Proceed For Payment</p>
                 </div>
             </Link>
         </div>
